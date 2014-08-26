@@ -11,7 +11,7 @@ Example json export from mongo you cannot parse with JSON
 ```    
 
 But after convert you get parse able object
-```js
+
 ```js
 {
     "_id" : "53b1df1567d52f88014c1cd3",
